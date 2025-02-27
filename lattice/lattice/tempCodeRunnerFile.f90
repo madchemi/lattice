@@ -1,0 +1,2 @@
+
+        allocate(dist(nbin))
